@@ -1,0 +1,46 @@
+# SQL Server Backup Files
+*.bak
+*.trn
+*.transaction
+
+# SQL Server Data Files
+*.mdf
+*.ldf
+*.ndf
+
+# Temporary and Log Files
+*.log
+*.tmp
+*.temp
+
+# SSMS and Visual Studio
+*.ssms
+*.sqlproj
+*.sln
+.vs/
+.vscode/
+
+# IDE Files
+.idea/
+*.swp
+*.swo
+*~
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build and Output
+bin/
+obj/
+Debug/
+Release/
+
+# Database Files
+*.sql.bak
+*.sql.backup
+
+# Environment and Configuration
+.env
+local.config
+*.user
