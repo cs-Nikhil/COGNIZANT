@@ -1,0 +1,12 @@
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-01-NUnit-Basic\src\CalculatorBasic\bin\Debug\net8.0\CalculatorBasic.deps.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-01-NUnit-Basic\src\CalculatorBasic\bin\Debug\net8.0\CalculatorBasic.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-01-NUnit-Basic\src\CalculatorBasic\bin\Debug\net8.0\CalculatorBasic.pdb
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-01-NUnit-Basic\src\CalculatorBasic\obj\Debug\net8.0\CalculatorBasic.GeneratedMSBuildEditorConfig.editorconfig
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-01-NUnit-Basic\src\CalculatorBasic\obj\Debug\net8.0\CalculatorBasic.AssemblyInfoInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-01-NUnit-Basic\src\CalculatorBasic\obj\Debug\net8.0\CalculatorBasic.AssemblyInfo.cs
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-01-NUnit-Basic\src\CalculatorBasic\obj\Debug\net8.0\CalculatorBasic.csproj.CoreCompileInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-01-NUnit-Basic\src\CalculatorBasic\obj\Debug\net8.0\CalculatorBasic.sourcelink.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-01-NUnit-Basic\src\CalculatorBasic\obj\Debug\net8.0\CalculatorBasic.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-01-NUnit-Basic\src\CalculatorBasic\obj\Debug\net8.0\refint\CalculatorBasic.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-01-NUnit-Basic\src\CalculatorBasic\obj\Debug\net8.0\CalculatorBasic.pdb
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-01-NUnit-Basic\src\CalculatorBasic\obj\Debug\net8.0\ref\CalculatorBasic.dll

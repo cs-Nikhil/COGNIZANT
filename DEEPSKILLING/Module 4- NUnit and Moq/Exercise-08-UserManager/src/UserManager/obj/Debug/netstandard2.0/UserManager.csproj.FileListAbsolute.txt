@@ -1,0 +1,11 @@
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-08-UserManager\src\UserManager\bin\Debug\netstandard2.0\UserManager.deps.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-08-UserManager\src\UserManager\bin\Debug\netstandard2.0\UserManager.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-08-UserManager\src\UserManager\bin\Debug\netstandard2.0\UserManager.pdb
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-08-UserManager\src\UserManager\obj\Debug\netstandard2.0\UserManager.csproj.AssemblyReference.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-08-UserManager\src\UserManager\obj\Debug\netstandard2.0\UserManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-08-UserManager\src\UserManager\obj\Debug\netstandard2.0\UserManager.AssemblyInfoInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-08-UserManager\src\UserManager\obj\Debug\netstandard2.0\UserManager.AssemblyInfo.cs
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-08-UserManager\src\UserManager\obj\Debug\netstandard2.0\UserManager.csproj.CoreCompileInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-08-UserManager\src\UserManager\obj\Debug\netstandard2.0\UserManager.sourcelink.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-08-UserManager\src\UserManager\obj\Debug\netstandard2.0\UserManager.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-08-UserManager\src\UserManager\obj\Debug\netstandard2.0\UserManager.pdb

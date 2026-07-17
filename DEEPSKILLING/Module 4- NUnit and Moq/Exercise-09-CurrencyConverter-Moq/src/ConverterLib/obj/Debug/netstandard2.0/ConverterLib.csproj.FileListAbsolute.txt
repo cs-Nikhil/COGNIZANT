@@ -1,0 +1,11 @@
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-09-CurrencyConverter-Moq\src\ConverterLib\bin\Debug\netstandard2.0\ConverterLib.deps.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-09-CurrencyConverter-Moq\src\ConverterLib\bin\Debug\netstandard2.0\ConverterLib.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-09-CurrencyConverter-Moq\src\ConverterLib\bin\Debug\netstandard2.0\ConverterLib.pdb
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-09-CurrencyConverter-Moq\src\ConverterLib\obj\Debug\netstandard2.0\ConverterLib.csproj.AssemblyReference.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-09-CurrencyConverter-Moq\src\ConverterLib\obj\Debug\netstandard2.0\ConverterLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-09-CurrencyConverter-Moq\src\ConverterLib\obj\Debug\netstandard2.0\ConverterLib.AssemblyInfoInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-09-CurrencyConverter-Moq\src\ConverterLib\obj\Debug\netstandard2.0\ConverterLib.AssemblyInfo.cs
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-09-CurrencyConverter-Moq\src\ConverterLib\obj\Debug\netstandard2.0\ConverterLib.csproj.CoreCompileInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-09-CurrencyConverter-Moq\src\ConverterLib\obj\Debug\netstandard2.0\ConverterLib.sourcelink.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-09-CurrencyConverter-Moq\src\ConverterLib\obj\Debug\netstandard2.0\ConverterLib.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-09-CurrencyConverter-Moq\src\ConverterLib\obj\Debug\netstandard2.0\ConverterLib.pdb

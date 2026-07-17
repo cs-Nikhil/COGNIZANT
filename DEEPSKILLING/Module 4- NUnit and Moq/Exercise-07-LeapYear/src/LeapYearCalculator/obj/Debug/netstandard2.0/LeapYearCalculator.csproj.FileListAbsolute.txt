@@ -1,0 +1,11 @@
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-07-LeapYear\src\LeapYearCalculator\bin\Debug\netstandard2.0\LeapYearCalculator.deps.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-07-LeapYear\src\LeapYearCalculator\bin\Debug\netstandard2.0\LeapYearCalculator.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-07-LeapYear\src\LeapYearCalculator\bin\Debug\netstandard2.0\LeapYearCalculator.pdb
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-07-LeapYear\src\LeapYearCalculator\obj\Debug\netstandard2.0\LeapYearCalculator.csproj.AssemblyReference.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-07-LeapYear\src\LeapYearCalculator\obj\Debug\netstandard2.0\LeapYearCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-07-LeapYear\src\LeapYearCalculator\obj\Debug\netstandard2.0\LeapYearCalculator.AssemblyInfoInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-07-LeapYear\src\LeapYearCalculator\obj\Debug\netstandard2.0\LeapYearCalculator.AssemblyInfo.cs
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-07-LeapYear\src\LeapYearCalculator\obj\Debug\netstandard2.0\LeapYearCalculator.csproj.CoreCompileInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-07-LeapYear\src\LeapYearCalculator\obj\Debug\netstandard2.0\LeapYearCalculator.sourcelink.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-07-LeapYear\src\LeapYearCalculator\obj\Debug\netstandard2.0\LeapYearCalculator.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-07-LeapYear\src\LeapYearCalculator\obj\Debug\netstandard2.0\LeapYearCalculator.pdb

@@ -1,0 +1,5 @@
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-03-UrlParser\src\UrlHostNameParser\obj\Debug\net8.0\UrlHostNameParser.GeneratedMSBuildEditorConfig.editorconfig
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-03-UrlParser\src\UrlHostNameParser\obj\Debug\net8.0\UrlHostNameParser.AssemblyInfoInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-03-UrlParser\src\UrlHostNameParser\obj\Debug\net8.0\UrlHostNameParser.AssemblyInfo.cs
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-03-UrlParser\src\UrlHostNameParser\obj\Debug\net8.0\UrlHostNameParser.csproj.CoreCompileInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-03-UrlParser\src\UrlHostNameParser\obj\Debug\net8.0\UrlHostNameParser.sourcelink.json

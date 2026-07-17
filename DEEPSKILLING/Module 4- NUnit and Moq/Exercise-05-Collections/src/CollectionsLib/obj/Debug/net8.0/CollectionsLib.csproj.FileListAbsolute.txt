@@ -1,0 +1,12 @@
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-05-Collections\src\CollectionsLib\bin\Debug\net8.0\CollectionsLib.deps.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-05-Collections\src\CollectionsLib\bin\Debug\net8.0\CollectionsLib.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-05-Collections\src\CollectionsLib\bin\Debug\net8.0\CollectionsLib.pdb
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-05-Collections\src\CollectionsLib\obj\Debug\net8.0\CollectionsLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-05-Collections\src\CollectionsLib\obj\Debug\net8.0\CollectionsLib.AssemblyInfoInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-05-Collections\src\CollectionsLib\obj\Debug\net8.0\CollectionsLib.AssemblyInfo.cs
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-05-Collections\src\CollectionsLib\obj\Debug\net8.0\CollectionsLib.csproj.CoreCompileInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-05-Collections\src\CollectionsLib\obj\Debug\net8.0\CollectionsLib.sourcelink.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-05-Collections\src\CollectionsLib\obj\Debug\net8.0\CollectionsLib.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-05-Collections\src\CollectionsLib\obj\Debug\net8.0\refint\CollectionsLib.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-05-Collections\src\CollectionsLib\obj\Debug\net8.0\CollectionsLib.pdb
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-05-Collections\src\CollectionsLib\obj\Debug\net8.0\ref\CollectionsLib.dll

@@ -1,0 +1,11 @@
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-11-DirectoryExplorer-Moq\src\MagicFilesLib\bin\Debug\netstandard2.0\MagicFilesLib.deps.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-11-DirectoryExplorer-Moq\src\MagicFilesLib\bin\Debug\netstandard2.0\MagicFilesLib.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-11-DirectoryExplorer-Moq\src\MagicFilesLib\bin\Debug\netstandard2.0\MagicFilesLib.pdb
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-11-DirectoryExplorer-Moq\src\MagicFilesLib\obj\Debug\netstandard2.0\MagicFilesLib.csproj.AssemblyReference.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-11-DirectoryExplorer-Moq\src\MagicFilesLib\obj\Debug\netstandard2.0\MagicFilesLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-11-DirectoryExplorer-Moq\src\MagicFilesLib\obj\Debug\netstandard2.0\MagicFilesLib.AssemblyInfoInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-11-DirectoryExplorer-Moq\src\MagicFilesLib\obj\Debug\netstandard2.0\MagicFilesLib.AssemblyInfo.cs
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-11-DirectoryExplorer-Moq\src\MagicFilesLib\obj\Debug\netstandard2.0\MagicFilesLib.csproj.CoreCompileInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-11-DirectoryExplorer-Moq\src\MagicFilesLib\obj\Debug\netstandard2.0\MagicFilesLib.sourcelink.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-11-DirectoryExplorer-Moq\src\MagicFilesLib\obj\Debug\netstandard2.0\MagicFilesLib.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-11-DirectoryExplorer-Moq\src\MagicFilesLib\obj\Debug\netstandard2.0\MagicFilesLib.pdb

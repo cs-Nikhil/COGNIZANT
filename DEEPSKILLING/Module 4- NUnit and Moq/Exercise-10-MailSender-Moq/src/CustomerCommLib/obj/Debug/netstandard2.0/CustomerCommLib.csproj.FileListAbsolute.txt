@@ -1,0 +1,11 @@
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-10-MailSender-Moq\src\CustomerCommLib\bin\Debug\netstandard2.0\CustomerCommLib.deps.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-10-MailSender-Moq\src\CustomerCommLib\bin\Debug\netstandard2.0\CustomerCommLib.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-10-MailSender-Moq\src\CustomerCommLib\bin\Debug\netstandard2.0\CustomerCommLib.pdb
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-10-MailSender-Moq\src\CustomerCommLib\obj\Debug\netstandard2.0\CustomerCommLib.csproj.AssemblyReference.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-10-MailSender-Moq\src\CustomerCommLib\obj\Debug\netstandard2.0\CustomerCommLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-10-MailSender-Moq\src\CustomerCommLib\obj\Debug\netstandard2.0\CustomerCommLib.AssemblyInfoInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-10-MailSender-Moq\src\CustomerCommLib\obj\Debug\netstandard2.0\CustomerCommLib.AssemblyInfo.cs
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-10-MailSender-Moq\src\CustomerCommLib\obj\Debug\netstandard2.0\CustomerCommLib.csproj.CoreCompileInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-10-MailSender-Moq\src\CustomerCommLib\obj\Debug\netstandard2.0\CustomerCommLib.sourcelink.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-10-MailSender-Moq\src\CustomerCommLib\obj\Debug\netstandard2.0\CustomerCommLib.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-10-MailSender-Moq\src\CustomerCommLib\obj\Debug\netstandard2.0\CustomerCommLib.pdb

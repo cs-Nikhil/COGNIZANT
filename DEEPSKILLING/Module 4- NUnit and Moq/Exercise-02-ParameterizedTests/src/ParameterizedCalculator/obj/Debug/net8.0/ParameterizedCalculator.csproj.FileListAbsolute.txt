@@ -1,0 +1,12 @@
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-02-ParameterizedTests\src\ParameterizedCalculator\bin\Debug\net8.0\ParameterizedCalculator.deps.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-02-ParameterizedTests\src\ParameterizedCalculator\bin\Debug\net8.0\ParameterizedCalculator.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-02-ParameterizedTests\src\ParameterizedCalculator\bin\Debug\net8.0\ParameterizedCalculator.pdb
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-02-ParameterizedTests\src\ParameterizedCalculator\obj\Debug\net8.0\ParameterizedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-02-ParameterizedTests\src\ParameterizedCalculator\obj\Debug\net8.0\ParameterizedCalculator.AssemblyInfoInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-02-ParameterizedTests\src\ParameterizedCalculator\obj\Debug\net8.0\ParameterizedCalculator.AssemblyInfo.cs
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-02-ParameterizedTests\src\ParameterizedCalculator\obj\Debug\net8.0\ParameterizedCalculator.csproj.CoreCompileInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-02-ParameterizedTests\src\ParameterizedCalculator\obj\Debug\net8.0\ParameterizedCalculator.sourcelink.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-02-ParameterizedTests\src\ParameterizedCalculator\obj\Debug\net8.0\ParameterizedCalculator.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-02-ParameterizedTests\src\ParameterizedCalculator\obj\Debug\net8.0\refint\ParameterizedCalculator.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-02-ParameterizedTests\src\ParameterizedCalculator\obj\Debug\net8.0\ParameterizedCalculator.pdb
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-02-ParameterizedTests\src\ParameterizedCalculator\obj\Debug\net8.0\ref\ParameterizedCalculator.dll

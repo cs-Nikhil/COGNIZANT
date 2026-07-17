@@ -1,0 +1,11 @@
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-06-FourSeasons\src\FourSeasonsLib\obj\Debug\netstandard2.0\FourSeasonsLib.csproj.AssemblyReference.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-06-FourSeasons\src\FourSeasonsLib\obj\Debug\netstandard2.0\FourSeasonsLib.GeneratedMSBuildEditorConfig.editorconfig
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-06-FourSeasons\src\FourSeasonsLib\obj\Debug\netstandard2.0\FourSeasonsLib.AssemblyInfoInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-06-FourSeasons\src\FourSeasonsLib\obj\Debug\netstandard2.0\FourSeasonsLib.AssemblyInfo.cs
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-06-FourSeasons\src\FourSeasonsLib\obj\Debug\netstandard2.0\FourSeasonsLib.csproj.CoreCompileInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-06-FourSeasons\src\FourSeasonsLib\obj\Debug\netstandard2.0\FourSeasonsLib.sourcelink.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-06-FourSeasons\src\FourSeasonsLib\bin\Debug\netstandard2.0\FourSeasonsLib.deps.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-06-FourSeasons\src\FourSeasonsLib\bin\Debug\netstandard2.0\FourSeasonsLib.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-06-FourSeasons\src\FourSeasonsLib\bin\Debug\netstandard2.0\FourSeasonsLib.pdb
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-06-FourSeasons\src\FourSeasonsLib\obj\Debug\netstandard2.0\FourSeasonsLib.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-06-FourSeasons\src\FourSeasonsLib\obj\Debug\netstandard2.0\FourSeasonsLib.pdb

@@ -1,0 +1,11 @@
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-12-PlayerManager-Moq\src\PlayerManager\obj\Debug\netstandard2.0\PlayerManager.csproj.AssemblyReference.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-12-PlayerManager-Moq\src\PlayerManager\obj\Debug\netstandard2.0\PlayerManager.GeneratedMSBuildEditorConfig.editorconfig
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-12-PlayerManager-Moq\src\PlayerManager\obj\Debug\netstandard2.0\PlayerManager.AssemblyInfoInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-12-PlayerManager-Moq\src\PlayerManager\obj\Debug\netstandard2.0\PlayerManager.AssemblyInfo.cs
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-12-PlayerManager-Moq\src\PlayerManager\obj\Debug\netstandard2.0\PlayerManager.csproj.CoreCompileInputs.cache
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-12-PlayerManager-Moq\src\PlayerManager\obj\Debug\netstandard2.0\PlayerManager.sourcelink.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-12-PlayerManager-Moq\src\PlayerManager\bin\Debug\netstandard2.0\PlayerManager.deps.json
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-12-PlayerManager-Moq\src\PlayerManager\bin\Debug\netstandard2.0\PlayerManager.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-12-PlayerManager-Moq\src\PlayerManager\bin\Debug\netstandard2.0\PlayerManager.pdb
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-12-PlayerManager-Moq\src\PlayerManager\obj\Debug\netstandard2.0\PlayerManager.dll
+E:\COGNIZANT-main\DEEPSKILLING\Module 4- NUnit and Moq\Module-04-NUnit-Moq\Exercise-12-PlayerManager-Moq\src\PlayerManager\obj\Debug\netstandard2.0\PlayerManager.pdb

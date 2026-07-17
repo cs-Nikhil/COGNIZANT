@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RVNsb2IP4Fo=",
+  "success": true,
+  "projectFilePath": "E:\\COGNIZANT-main\\DEEPSKILLING\\Module 4- NUnit and Moq\\Exercise-04-AccountsManager\\src\\AccountsManager\\AccountsManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.28\\microsoft.netcore.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.28\\microsoft.windowsdesktop.app.ref.8.0.28.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.28\\microsoft.aspnetcore.app.ref.8.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
