@@ -1,0 +1,17 @@
+<Solution>
+  <Project Path="Lab01-Understanding-ORM/Lab01-Understanding-ORM.csproj" />
+  <Project Path="Lab02-Database-Context/Lab02-Database-Context.csproj" />
+  <Project Path="Lab03-Migrations/Lab03-Migrations.csproj" />
+  <Project Path="Lab04-Insert-Initial-Data/Lab04-Insert-Initial-Data.csproj" />
+  <Project Path="Lab05-Retrieve-Data/Lab05-Retrieve-Data.csproj" />
+  <Project Path="Lab06-Update-Delete/Lab06-Update-Delete.csproj" />
+  <Project Path="Lab07-LINQ-Queries/Lab07-LINQ-Queries.csproj" />
+  <Project Path="Lab08-Schema-Changes/Lab08-Schema-Changes.csproj" />
+  <Project Path="Lab09-Seeding-Data/Lab09-Seeding-Data.csproj" />
+  <Project Path="Lab10-Loading-Strategies/Lab10-Loading-Strategies.csproj" />
+  <Project Path="Lab11-Relationships/Lab11-Relationships.csproj" />
+  <Project Path="Lab12-Circular-References/Lab12-Circular-References.csproj" />
+  <Project Path="Lab13-Query-Caching-Tracking/Lab13-Query-Caching-Tracking.csproj" />
+  <Project Path="Lab14-Batch-Bulk-Operations/Lab14-Batch-Bulk-Operations.csproj" />
+  <Project Path="Lab15-Concurrency-RowVersion/Lab15-Concurrency-RowVersion.csproj" />
+</Solution>
