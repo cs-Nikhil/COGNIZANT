@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Lab01-JWT-Authentication/Lab01-JWT-Authentication.csproj" />
+  <Project Path="Lab02-Secure-Endpoint/Lab02-Secure-Endpoint.csproj" />
+  <Project Path="Lab03-Role-Based-Authorization/Lab03-Role-Based-Authorization.csproj" />
+  <Project Path="Lab04-Token-Expiry-Handling/Lab04-Token-Expiry-Handling.csproj" />
+</Solution>
