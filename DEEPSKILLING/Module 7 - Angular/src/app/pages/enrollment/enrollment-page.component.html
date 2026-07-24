@@ -1,0 +1,42 @@
+<section class="page card">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">Enrollment hub</p>
+      <h1>Enroll with template-driven or reactive forms</h1>
+      <p class="muted">
+        This area demonstrates validation, success feedback, reset behavior, and a protected store-backed list.
+      </p>
+    </div>
+    <a class="secondary" routerLink="/courses">Choose a course first</a>
+  </div>
+
+  <nav class="subnav">
+    <a routerLink="./" routerLinkActive="active" [routerLinkActiveOptions]="{ exact: true }">Template form</a>
+    <a routerLink="./reactive" routerLinkActive="active">Reactive form</a>
+  </nav>
+
+  <div class="layout">
+    <div class="layout__forms">
+      <router-outlet></router-outlet>
+    </div>
+
+    <aside class="layout__side">
+      <article class="panel">
+        <p class="eyebrow">Enrollment state</p>
+        <h2 *ngIf="count$ | async as count">{{ count }} active records</h2>
+        <p *ngIf="loading$ | async" class="muted">Syncing with JSON Server...</p>
+      </article>
+
+      <article class="panel">
+        <h3>Recent enrollments</h3>
+        <ul>
+          <li *ngFor="let enrollment of enrollments$ | async; trackBy: trackByEnrollmentId">
+            <strong>{{ enrollment.studentName }}</strong>
+            <span>{{ enrollment.courseTitle }}</span>
+          </li>
+        </ul>
+      </article>
+    </aside>
+  </div>
+</section>
+

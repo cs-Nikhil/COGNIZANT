@@ -1,0 +1,42 @@
+<section class="profile card">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">Protected profile</p>
+      <h1>{{ student.name }}</h1>
+      <p class="muted">{{ student.bio }}</p>
+    </div>
+    <span class="status">{{ student.role }}</span>
+  </div>
+
+  <div class="profile__grid">
+    <article class="panel">
+      <h2>Student details</h2>
+      <p><strong>Email:</strong> {{ student.email }}</p>
+      <p><strong>Batch:</strong> {{ student.batch }}</p>
+      <p><strong>City:</strong> {{ student.city }}</p>
+    </article>
+
+    <article class="panel">
+      <h2>Enrollment summary</h2>
+      <p *ngIf="count$ | async as count"><strong>Total enrollments:</strong> {{ count }}</p>
+      <div class="progress-block">
+        <p>Learning momentum</p>
+        <div class="meter"><span [style.width.%]="84"></span></div>
+      </div>
+    </article>
+  </div>
+
+  <article class="panel">
+    <h2>Recent enrollments</h2>
+    <div class="list" *ngIf="enrollments$ | async as enrollments">
+      <div class="list__item" *ngFor="let enrollment of enrollments; trackBy: trackByEnrollmentId">
+        <div>
+          <strong>{{ enrollment.courseTitle }}</strong>
+          <p>{{ enrollment.mode }} • {{ enrollment.status }}</p>
+        </div>
+        <span>{{ enrollment.enrolledOn }}</span>
+      </div>
+    </div>
+  </article>
+</section>
+

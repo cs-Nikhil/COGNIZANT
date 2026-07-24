@@ -1,0 +1,103 @@
+:host {
+  display: block;
+}
+
+.reactive-form {
+  padding: 1.25rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.eyebrow {
+  margin: 0 0 0.45rem;
+  color: var(--accent-2);
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.ghost,
+.primary {
+  border: 0;
+  border-radius: 999px;
+  padding: 0.88rem 1rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.ghost {
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.primary {
+  color: #07111f;
+  background: linear-gradient(135deg, #ffb86c, #ffd166);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.9rem;
+}
+
+label,
+.goal-item {
+  display: grid;
+  gap: 0.35rem;
+}
+
+label span {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+input,
+select,
+textarea {
+  padding: 0.95rem 1rem;
+  border-radius: 1rem;
+  border: 1px solid var(--border);
+  background: var(--surface-strong);
+  color: var(--text);
+}
+
+small {
+  color: var(--danger);
+}
+
+.goal-list {
+  display: grid;
+  gap: 0.75rem;
+}
+
+.goal-list__head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.goal-item {
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: center;
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.success {
+  color: var(--success);
+  font-weight: 700;
+}
+
+@media (max-width: 900px) {
+  .grid,
+  .goal-item {
+    grid-template-columns: 1fr;
+  }
+}
+

@@ -1,0 +1,72 @@
+:host {
+  display: block;
+}
+
+.login {
+  padding: 1.5rem;
+  display: grid;
+  gap: 1rem;
+  max-width: 46rem;
+}
+
+.eyebrow {
+  margin: 0 0 0.45rem;
+  color: var(--accent-2);
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(1.8rem, 3vw, 3rem);
+}
+
+.ghost,
+.primary {
+  border-radius: 999px;
+  padding: 0.88rem 1rem;
+  border: 0;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.ghost {
+  color: var(--text);
+  text-decoration: none;
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.primary {
+  color: #07111f;
+  background: linear-gradient(135deg, #ffb86c, #ffd166);
+}
+
+.login__form {
+  display: grid;
+  gap: 0.9rem;
+}
+
+label {
+  display: grid;
+  gap: 0.35rem;
+}
+
+label span {
+  color: var(--muted);
+}
+
+input {
+  padding: 0.95rem 1rem;
+  border-radius: 1rem;
+  border: 1px solid var(--border);
+  background: var(--surface-strong);
+  color: var(--text);
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+}
+

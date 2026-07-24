@@ -1,0 +1,27 @@
+<header class="topbar">
+  <a class="brand" routerLink="/home">
+    <span class="brand__mark">SCP</span>
+    <span class="brand__text">
+      <strong>Student Course Portal</strong>
+      <small>Angular 20 hands-on workspace</small>
+    </span>
+  </a>
+
+  <nav class="nav">
+    <a routerLink="/home" routerLinkActive="active">Home</a>
+    <a routerLink="/courses" routerLinkActive="active">Courses</a>
+    <a routerLink="/enrollment" routerLinkActive="active">Enrollment</a>
+    <a routerLink="/profile" routerLinkActive="active">Profile</a>
+  </nav>
+
+  <div class="actions">
+    <span class="status" [class.status--on]="authService.isLoggedIn()">
+      {{ authService.isLoggedIn() ? 'Signed in' : 'Guest mode' }}
+    </span>
+    <a *ngIf="!authService.isLoggedIn()" class="cta cta--ghost" routerLink="/login">Log in</a>
+    <button *ngIf="authService.isLoggedIn()" class="cta" type="button" (click)="logout()">
+      Logout
+    </button>
+  </div>
+</header>
+

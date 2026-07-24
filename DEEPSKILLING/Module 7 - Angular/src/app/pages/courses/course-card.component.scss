@@ -1,0 +1,126 @@
+:host {
+  display: block;
+}
+
+.course-card {
+  padding: 1.2rem;
+  display: grid;
+  gap: 0.95rem;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.course-card--featured {
+  background:
+    linear-gradient(180deg, rgba(124, 92, 255, 0.12), transparent),
+    var(--surface);
+}
+
+.course-card__head {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.course-card__code {
+  margin: 0 0 0.2rem;
+  color: var(--accent-2);
+  letter-spacing: 0.08em;
+  font-weight: 800;
+}
+
+.course-card__head h3 {
+  margin: 0;
+  font-size: 1.25rem;
+}
+
+.course-card__level {
+  align-self: start;
+  padding: 0.35rem 0.7rem;
+  border-radius: 999px;
+  font-weight: 800;
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.course-card__desc,
+.course-card__meta,
+.progress small {
+  color: var(--muted);
+}
+
+.course-card__meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.65rem;
+}
+
+.tag {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.35rem 0.65rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.07);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.course-card__tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.progress {
+  display: grid;
+  gap: 0.35rem;
+}
+
+.progress__bar {
+  height: 0.6rem;
+  border-radius: 999px;
+  overflow: hidden;
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.progress__bar span {
+  display: block;
+  height: 100%;
+  border-radius: inherit;
+  background: linear-gradient(90deg, #6dd3ff, #7c5cff);
+}
+
+.course-card__footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.75rem;
+}
+
+.ghost,
+.primary {
+  border: 0;
+  border-radius: 999px;
+  padding: 0.85rem 1rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.ghost {
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.primary {
+  color: #07111f;
+  background: linear-gradient(135deg, #ffb86c, #ffd166);
+}
+
+.level-badge--beginner {
+  border-color: rgba(109, 211, 255, 0.25);
+}
+
+.level-badge--intermediate {
+  border-color: rgba(255, 184, 108, 0.25);
+}
+
+.level-badge--advanced {
+  border-color: rgba(167, 139, 250, 0.25);
+}
+

@@ -1,0 +1,74 @@
+<form #enrollmentForm="ngForm" class="enrollment-form card" (ngSubmit)="submit(enrollmentForm)">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">Template-driven form</p>
+      <h2>New enrollment</h2>
+      <p class="muted">Validation, success messaging, and reset behavior are all wired in here.</p>
+    </div>
+    <button class="ghost" type="button" (click)="reset(enrollmentForm)">Reset</button>
+  </div>
+
+  <div class="grid">
+    <label>
+      <span>Student name</span>
+      <input
+        name="studentName"
+        [(ngModel)]="draft.studentName"
+        required
+        minlength="3"
+        placeholder="Full name"
+      />
+      <small *ngIf="enrollmentForm.submitted && enrollmentForm.controls['studentName']?.invalid">
+        Please enter at least 3 characters.
+      </small>
+    </label>
+
+    <label>
+      <span>Email</span>
+      <input name="email" [(ngModel)]="draft.email" type="email" required placeholder="student@example.com" />
+      <small *ngIf="enrollmentForm.submitted && enrollmentForm.controls['email']?.invalid">
+        A valid email address is required.
+      </small>
+    </label>
+
+    <label>
+      <span>Course</span>
+      <select
+        name="courseId"
+        [(ngModel)]="draft.courseId"
+        required
+        (ngModelChange)="onCourseChanged($event)"
+      >
+        <option *ngFor="let course of courses; trackBy: trackByCourseId" [value]="course.id">
+          {{ course.title }}
+        </option>
+      </select>
+    </label>
+
+    <label>
+      <span>Mode</span>
+      <select name="mode" [(ngModel)]="draft.mode" required>
+        <option value="Online">Online</option>
+        <option value="Offline">Offline</option>
+      </select>
+    </label>
+  </div>
+
+  <label>
+    <span>Notes</span>
+    <textarea
+      name="notes"
+      [(ngModel)]="draft.notes"
+      rows="4"
+      placeholder="Share goals, availability, or special requests"
+    ></textarea>
+  </label>
+
+  <input type="hidden" name="courseTitle" [(ngModel)]="draft.courseTitle" />
+
+  <div class="actions">
+    <button class="primary" type="submit">Submit enrollment</button>
+  </div>
+
+  <p class="success" *ngIf="successMessage">{{ successMessage }}</p>
+</form>

@@ -1,0 +1,77 @@
+<form class="reactive-form card" [formGroup]="form" (ngSubmit)="submit()">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">Reactive form</p>
+      <h2>Advanced enrollment</h2>
+      <p class="muted">FormBuilder, FormGroup, FormArray, sync validation, and async validation.</p>
+    </div>
+    <a routerLink="/enrollment" class="ghost">Template form</a>
+  </div>
+
+  <div class="grid">
+    <label>
+      <span>Student name</span>
+      <input formControlName="studentName" placeholder="Full name" />
+      <small *ngIf="form.controls.studentName.touched && form.controls.studentName.invalid">
+        Enter at least two words.
+      </small>
+    </label>
+
+    <label>
+      <span>Email</span>
+      <input formControlName="email" type="email" placeholder="student@example.com" />
+      <small *ngIf="form.controls.email.touched && form.controls.email.hasError('emailTaken')">
+        This email is already enrolled.
+      </small>
+    </label>
+
+    <label>
+      <span>Course</span>
+      <select formControlName="courseId">
+        <option *ngFor="let course of courses; trackBy: trackByCourseId" [value]="course.id">
+          {{ course.title }}
+        </option>
+      </select>
+    </label>
+
+    <label>
+      <span>Course code</span>
+      <input formControlName="courseCode" placeholder="ANG-..." />
+      <small *ngIf="form.controls.courseCode.touched && form.controls.courseCode.invalid">
+        Course code must start with ANG-.
+      </small>
+    </label>
+  </div>
+
+  <label>
+    <span>Mode</span>
+    <select formControlName="mode">
+      <option value="Online">Online</option>
+      <option value="Offline">Offline</option>
+    </select>
+  </label>
+
+  <label>
+    <span>Notes</span>
+    <textarea formControlName="notes" rows="4"></textarea>
+  </label>
+
+  <div formArrayName="goals" class="goal-list">
+    <div class="goal-list__head">
+      <h3>Learning goals</h3>
+      <button type="button" class="ghost" (click)="addGoal()">Add goal</button>
+    </div>
+
+    <div *ngFor="let goal of goals.controls; let i = index; trackBy: trackByGoalIndex" class="goal-item">
+      <input [formControlName]="i" placeholder="Learning goal" />
+      <button type="button" class="ghost" (click)="removeGoal(i)">Remove</button>
+    </div>
+  </div>
+
+  <div class="actions">
+    <button class="primary" type="submit">Save enrollment</button>
+  </div>
+
+  <p class="success" *ngIf="submittedMessage">{{ submittedMessage }}</p>
+</form>
+

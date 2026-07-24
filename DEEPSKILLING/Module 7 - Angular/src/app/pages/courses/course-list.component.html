@@ -1,0 +1,40 @@
+<div class="catalog-toolbar">
+  <label>
+    <span>Search</span>
+    <input
+      name="searchTerm"
+      [(ngModel)]="searchTerm"
+      (ngModelChange)="applyFilters()"
+      placeholder="Find a course by title, code, category, or tag"
+    />
+  </label>
+
+  <label>
+    <span>Level</span>
+    <select name="levelFilter" [(ngModel)]="levelFilter" (ngModelChange)="applyFilters()">
+      <option *ngFor="let level of levelOptions" [value]="level">{{ level }}</option>
+    </select>
+  </label>
+
+  <button type="button" class="ghost" (click)="clearFilters()">Reset</button>
+</div>
+
+<div class="summary" *ngIf="courses.length">
+  <span>{{ filteredCourses.length }} of {{ courses.length }} courses shown</span>
+  <a routerLink="/enrollment/reactive">Try reactive enrollment</a>
+</div>
+
+<div class="empty card" *ngIf="filteredCourses.length === 0">
+  <h3>No matching courses.</h3>
+  <p class="muted">Try a different keyword or clear the level filter.</p>
+</div>
+
+<div class="cards">
+  <app-course-card
+    *ngFor="let course of filteredCourses; trackBy: trackByCourseId"
+    [course]="course"
+    (details)="openCourse($event)"
+    (enrolled)="enrollCourse($event)"
+  ></app-course-card>
+</div>
+

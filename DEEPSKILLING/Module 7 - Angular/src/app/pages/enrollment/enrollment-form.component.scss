@@ -1,0 +1,84 @@
+:host {
+  display: block;
+}
+
+.enrollment-form {
+  padding: 1.25rem;
+  display: grid;
+  gap: 1rem;
+}
+
+.eyebrow {
+  margin: 0 0 0.45rem;
+  color: var(--accent-2);
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.9rem;
+}
+
+label {
+  display: grid;
+  gap: 0.35rem;
+}
+
+label span {
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+input,
+select,
+textarea {
+  padding: 0.95rem 1rem;
+  border-radius: 1rem;
+  border: 1px solid var(--border);
+  background: var(--surface-strong);
+  color: var(--text);
+}
+
+small {
+  color: var(--danger);
+}
+
+.actions {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.primary,
+.ghost {
+  border: 0;
+  border-radius: 999px;
+  padding: 0.88rem 1rem;
+  font-weight: 800;
+  cursor: pointer;
+}
+
+.primary {
+  color: #07111f;
+  background: linear-gradient(135deg, #ffb86c, #ffd166);
+}
+
+.ghost {
+  color: var(--text);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.success {
+  color: var(--success);
+  font-weight: 700;
+}
+
+@media (max-width: 900px) {
+  .grid {
+    grid-template-columns: 1fr;
+  }
+}
+

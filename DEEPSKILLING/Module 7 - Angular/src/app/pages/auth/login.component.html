@@ -1,0 +1,29 @@
+<section class="login card">
+  <div class="section-heading">
+    <div>
+      <p class="eyebrow">Authentication</p>
+      <h1>Log in to access protected views</h1>
+      <p class="muted">This simple auth flow supports the guard exercise and token-based interceptor.</p>
+    </div>
+    <a routerLink="/home" class="ghost">Back home</a>
+  </div>
+
+  <form [formGroup]="form" (ngSubmit)="submit()" class="login__form">
+    <label>
+      <span>Email</span>
+      <input formControlName="email" type="email" placeholder="admin@portal.com" />
+    </label>
+
+    <label>
+      <span>Password</span>
+      <input formControlName="password" type="password" placeholder="Enter password" />
+    </label>
+
+    <div class="actions">
+      <button class="primary" type="submit">Sign in</button>
+    </div>
+  </form>
+
+  <p class="muted">Demo credentials: <strong>admin@portal.com</strong> / <strong>admin123</strong></p>
+</section>
+

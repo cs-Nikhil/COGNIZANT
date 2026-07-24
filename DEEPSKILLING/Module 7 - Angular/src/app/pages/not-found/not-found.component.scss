@@ -1,0 +1,33 @@
+:host {
+  display: block;
+}
+
+.not-found {
+  padding: 2rem;
+  max-width: 40rem;
+}
+
+.eyebrow {
+  margin: 0 0 0.45rem;
+  color: var(--accent-2);
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  font-size: 0.78rem;
+  font-weight: 800;
+}
+
+h1 {
+  margin: 0;
+}
+
+.primary {
+  display: inline-flex;
+  margin-top: 1rem;
+  padding: 0.88rem 1rem;
+  border-radius: 999px;
+  color: #07111f;
+  font-weight: 800;
+  text-decoration: none;
+  background: linear-gradient(135deg, #ffb86c, #ffd166);
+}
+

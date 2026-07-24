@@ -1,0 +1,32 @@
+<article class="course-card card" [appHighlight]="accentColor" [ngClass]="[levelBadgeClass, course.featured ? 'course-card--featured' : '']">
+  <div class="course-card__head">
+    <div>
+      <p class="course-card__code">{{ course.code }}</p>
+      <h3>{{ course.title }}</h3>
+    </div>
+    <span class="course-card__level">{{ course.level }}</span>
+  </div>
+
+  <p class="course-card__desc">{{ course.description }}</p>
+
+  <div class="course-card__meta">
+    <span>{{ course.credits | creditLabel }}</span>
+    <span>{{ course.durationWeeks }} weeks</span>
+    <span>{{ course.instructor }}</span>
+  </div>
+
+  <div class="course-card__tags">
+    <span class="tag" *ngFor="let tag of course.tags; trackBy: trackByTag">{{ tag }}</span>
+  </div>
+
+  <div class="progress">
+    <div class="progress__bar"><span [ngStyle]="{ width: ratingWidth }"></span></div>
+    <small>{{ course.rating }} / 5 rating</small>
+  </div>
+
+  <div class="course-card__footer">
+    <button type="button" class="ghost" (click)="emitDetails()">View details</button>
+    <button type="button" class="primary" (click)="emitEnroll()">Enroll</button>
+  </div>
+</article>
+

@@ -1,0 +1,89 @@
+<section class="hero card">
+  <div class="hero__copy">
+    <p class="eyebrow">Angular Hands-On Portal</p>
+    <h1>Learn Angular 20 by building the portal end to end.</h1>
+    <p class="lede">
+      This workspace combines routing, forms, services, guards, HTTP, NgRx, and tests into one
+      student course management experience.
+    </p>
+
+    <div class="hero__search">
+      <label>
+        <span>Quick search</span>
+        <input
+          name="quickSearch"
+          [(ngModel)]="quickSearch"
+          placeholder="Search by course code or topic"
+        />
+      </label>
+      <button type="button" class="primary" (click)="explore()">Explore courses</button>
+    </div>
+
+    <div class="hero__actions">
+      <a class="secondary" routerLink="/enrollment">Enroll now</a>
+      <a class="secondary secondary--ghost" routerLink="/profile">View profile</a>
+    </div>
+  </div>
+
+  <div class="hero__stats" *ngIf="dashboard$ | async as dashboard">
+    <article class="stat">
+      <strong>{{ dashboard.courseCount }}</strong>
+      <span>Live courses</span>
+    </article>
+    <article class="stat">
+      <strong>{{ dashboard.featuredCount }}</strong>
+      <span>Featured tracks</span>
+    </article>
+    <article class="stat">
+      <strong>{{ dashboard.enrollmentCount }}</strong>
+      <span>Enrollments</span>
+    </article>
+    <article class="stat">
+      <strong>{{ dashboard.nextIntake }}</strong>
+      <span>Next intake</span>
+    </article>
+  </div>
+</section>
+
+<section class="section-grid">
+  <article class="info card">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">What’s included</p>
+        <h2>Every hands-on topic has a place in the app.</h2>
+      </div>
+    </div>
+
+    <ul class="feature-list">
+      <li>Interpolation, property binding, event binding, and two-way binding</li>
+      <li>Template-driven and reactive forms with custom validation</li>
+      <li>Routing, nested routes, lazy loading, guards, and query parameters</li>
+      <li>HTTP, interceptors, JSON Server, and NgRx feature state</li>
+    </ul>
+  </article>
+
+  <article class="info card">
+    <div class="section-heading">
+      <div>
+        <p class="eyebrow">Featured courses</p>
+        <h2>Featured learning paths</h2>
+      </div>
+      <a routerLink="/courses" class="link">Open catalog</a>
+    </div>
+
+    <div class="featured-list" *ngIf="featuredCourses$ | async as featuredCourses">
+      <article class="featured" *ngFor="let course of featuredCourses; trackBy: trackByCourseId">
+        <div>
+          <p class="featured__code">{{ course.code }}</p>
+          <h3>{{ course.title }}</h3>
+          <p>{{ course.description }}</p>
+        </div>
+        <div class="featured__meta">
+          <span>{{ course.credits | creditLabel }}</span>
+          <span>{{ course.price | currency:'INR':'symbol-narrow' }}</span>
+        </div>
+      </article>
+    </div>
+  </article>
+</section>
+

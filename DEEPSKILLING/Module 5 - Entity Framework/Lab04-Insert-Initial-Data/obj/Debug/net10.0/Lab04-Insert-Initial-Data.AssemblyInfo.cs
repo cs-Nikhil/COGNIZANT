@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab04-Insert-Initial-Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34035a45ccba321a3b108bf2133407b9df69773c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+796512c3feb5b16e38d1fecce2835a99e65393aa")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab04-Insert-Initial-Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab04-Insert-Initial-Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,72 @@
+<article *ngIf="course$ | async as course; else loading" class="detail card">
+  <div class="detail__header">
+    <div>
+      <p class="detail__code">{{ course.code }}</p>
+      <h2>{{ course.title }}</h2>
+      <p class="muted">{{ course.description }}</p>
+    </div>
+    <div class="detail__side">
+      <span>{{ course.credits | creditLabel }}</span>
+      <span>{{ course.instructor }}</span>
+      <span>{{ course.schedule }}</span>
+    </div>
+  </div>
+
+  <div class="detail__tabs">
+    <button type="button" [class.active]="activeTab === 'overview'" (click)="setTab('overview')">Overview</button>
+    <button type="button" [class.active]="activeTab === 'lessons'" (click)="setTab('lessons')">Lessons</button>
+    <button type="button" [class.active]="activeTab === 'schedule'" (click)="setTab('schedule')">Schedule</button>
+  </div>
+
+  <section [ngSwitch]="activeTab" class="detail__panel">
+    <div *ngSwitchCase="'overview'">
+      <div class="info-grid">
+        <article>
+          <h3>Course information</h3>
+          <p><strong>Category:</strong> {{ course.category }}</p>
+          <p><strong>Level:</strong> {{ course.level }}</p>
+          <p><strong>Duration:</strong> {{ course.durationWeeks }} weeks</p>
+          <p><strong>Seats:</strong> {{ course.seats }}</p>
+        </article>
+        <article>
+          <h3>Ratings and pricing</h3>
+          <p><strong>Rating:</strong> {{ course.rating }} / 5</p>
+          <p><strong>Price:</strong> {{ course.price | currency:'INR':'symbol-narrow' }}</p>
+          <p><strong>Featured:</strong> {{ course.featured ? 'Yes' : 'No' }}</p>
+        </article>
+      </div>
+      <div class="tag-list">
+        <span *ngFor="let tag of course.tags; trackBy: trackByTag">{{ tag }}</span>
+      </div>
+    </div>
+
+    <div *ngSwitchCase="'lessons'">
+      <h3>Lesson plan</h3>
+      <ol>
+        <li *ngFor="let lesson of course.lessons; trackBy: trackByLesson">{{ lesson }}</li>
+      </ol>
+    </div>
+
+    <div *ngSwitchCase="'schedule'">
+      <h3>Schedule</h3>
+      <p>{{ course.schedule }}</p>
+      <p class="muted">Use the enrollment form to reserve a place in this batch.</p>
+    </div>
+
+    <div *ngSwitchDefault>
+      <p>Choose a tab to inspect the course.</p>
+    </div>
+  </section>
+
+  <div class="detail__actions">
+    <a class="secondary" routerLink="/courses">Back to catalog</a>
+    <button class="primary" type="button" (click)="enroll(course)">Enroll for this course</button>
+  </div>
+</article>
+
+<ng-template #loading>
+  <article class="card detail__loading">
+    <p class="muted">Loading course details...</p>
+  </article>
+</ng-template>
+
